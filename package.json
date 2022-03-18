@@ -1,0 +1,16 @@
+{
+  "name": "expressweatherapp",
+  "version": "1.0.0",
+  "description": "This is a weather web app made by express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayhan J Plabon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
